@@ -95,4 +95,4 @@ Operator: }
 Conclusion
 In conclusion, this lexical analyzer demonstrates the foundational role of tokenization in the compilation process. By identifying keywords, operators, and identifiers, it mimics what real compilers do in their initial stages. While this is a simplified version of what actual lexical analyzers perform (which often use tools like Lex or Flex), the core idea remains the same. This project not only helps in understanding compiler design but also strengthens the grasp of file handling, string processing, and logic implementation in C programming.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/04466212-5368-48de-8396-29db1202b81d)
